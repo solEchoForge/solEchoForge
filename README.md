@@ -7,11 +7,9 @@ Welcome to my corner of GitHub! I'm a passionate **Blockchain Developer** with a
 ## 🧠 About Me
 
 - 🔭 Currently building next-gen **DeFi bots**, **NFT utilities**, and **smart contract tooling** on **Solana**
-- ⚙️ Skilled in:  
-  `Rust` · `Anchor` · `Solana Program Library (SPL)` · `Solana RPC/WebSockets` · `Next.js` · `TypeScript`
 - 🧪 Blockchain Experience:  
   ✦ Token minting & staking  
-  ✦ Volume bots & snipers (Raydium/Pump.fun)  
+  ✦ Volume bots & snipers and copy trading bots (Raydium/Pump.fun)  
   ✦ Liquidity pools & automated trading strategies  
   ✦ On-chain games and dApps  
 - 🌍 Also familiar with Ethereum, Bitcoin L1, and cross-chain tools  
@@ -22,8 +20,7 @@ Welcome to my corner of GitHub! I'm a passionate **Blockchain Developer** with a
 ## 🚀 Highlight Projects
 
 - **Raypump Executioner Bot**  
-  Automated high-speed trading bot for Raydium + Pump.fun  
-  `Rust` · `Anchor` · `WebSockets` · `Solana RPC`
+  Automated high-speed trading bot for several Dexs
 
 - **Solana Liquidity Volume Bot**  
   New-gen volume bot for Raydium & Meteora  
@@ -58,7 +55,7 @@ Welcome to my corner of GitHub! I'm a passionate **Blockchain Developer** with a
 
 ## 📫 Let’s Build Together
 
-- 💬 I'm open to collaborations on DeFi, tools, bots, or NFT mechanics
+- 💬 I'm open to collaborations on DeFi, tools, bots, or NFT mechanics and also Smart Contract
 
 - 📩 DM me on Telegram or connect on Twitter
 
